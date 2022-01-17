@@ -1,16 +1,16 @@
-#DesignPattrens
+# DesignPattrens
 This repo conatins implementation/simulation of following design pattrens.
-##FactoryMethod
-###ProductClass 
+## FactoryMethod
+### ProductClass 
 - MemberInterface
-###ConcreteProducts
+### ConcreteProducts
 - AnnualMember
 - PermanentMember
 - TempoarayMember
-###CreatorClass
+### CreatorClass
 - Membership
-###ConcreteCreatorClasses
+### ConcreteCreatorClasses
 - PuLibarayMembership
 - PublicLibraryMembership
 - GcLibraryMembership
-###DriverClass
+### DriverClass
